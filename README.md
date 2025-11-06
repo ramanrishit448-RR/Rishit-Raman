@@ -1,6 +1,7 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="Coding animation banner"/>
+  <img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=4db6ac&height=120&section=header" width="100%"/>
+" width="100%" alt="Coding animation banner"/>
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#4db6ac;">Rishit Raman</span> 👋</h1>
