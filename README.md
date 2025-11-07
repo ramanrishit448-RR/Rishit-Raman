@@ -1,7 +1,4 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Coding animation banner"/>
-</p>
+
 
 <h1 align="center">Hey there, I'm <span style="color:#4db6ac;">Rishit Raman</span> 👋</h1>
 <p align="center">
