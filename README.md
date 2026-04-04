@@ -21,15 +21,17 @@
 
 ---
 
-### 🧩 Highlight Project: [FoodSight AI 🍎](https://github.com/ramanrishit448-RR/food-score-hub)
-> AI-powered product scanner that evaluates food health using barcode recognition and Gemini API.
+### 🧩 Highlight Project: [Meet AI 🤖](https://github.com/ramanrishit448-RR/next15-meet-ai-main)
+> Intelligent meeting assistant that not only joins calls but understands context, extracts insights, and assists users in real-time.
 
-**Tech:** MERN Stack + Gemini AI  
+**Tech:** MERN Stack + WebRTC + OpenAI / Gemini API  
+
 **Key Features:**  
-- 📸 Real-time product scanning via camera  
-- 🧮 AI health scoring (0–10)  
-- 🧠 Smart dashboard for visual analytics  
-
+- 🎥 Peer-to-peer video calls with real-time streaming (WebRTC)  
+- 🤖 Context-aware AI agent that listens and responds during meetings  
+- 📝 Live transcription with key point and action item extraction  
+- 💬 Post-meeting AI chat for querying past discussions  
+- 📊 Structured summaries for productivity tracking  
 ---
 
 ### 🌐 Connect With Me
