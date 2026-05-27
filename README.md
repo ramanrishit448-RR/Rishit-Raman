@@ -11,7 +11,7 @@
 ### 🧠 About Me
 - 🎓 **B.Tech Student** passionate about full-stack and AI-driven products  
 - 💡 I build **end-to-end MERN apps** with intelligent backend integration (Gemini, REST APIs, MongoDB)  
-- 🚀 Currently working on **FoodSight AI** — a product scanner that rates food healthiness using AI  
+- 🚀 Currently working on **Your OWN AI** — a product scanner that rates food healthiness using AI  
 - 🌱 Exploring **AI integrations**, **backend architecture**, and **deployment workflows**
 
 ---
