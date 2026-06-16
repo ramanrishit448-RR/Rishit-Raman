@@ -42,9 +42,7 @@
   <a href="mailto:rishitraman@email.com">
     <img src="https://img.shields.io/badge/Email-4db6ac?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ramanrishit448-RR">
-    <img src="https://img.shields.io/badge/GitHub-4db6ac?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
