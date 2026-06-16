@@ -24,10 +24,10 @@
 ### 🧩 Highlight Project: [Meet AI 🤖](https://github.com/ramanrishit448-RR/next15-meet-ai-main)
 > Intelligent meeting assistant that not only joins calls but understands context, extracts insights, and assists users in real-time.
 
-**Tech:** MERN Stack + WebRTC + OpenAI / Gemini API  
+**Tech:** Next.JS + tRPC + OpenAI + Polar + Better Auth + Neonbase + Stream SDK  
 
 **Key Features:**  
-- 🎥 Peer-to-peer video calls with real-time streaming (WebRTC)  
+- 🎥 Peer-to-peer video calls with real-time streaming (Stream SDK)  
 - 🤖 Context-aware AI agent that listens and responds during meetings  
 - 📝 Live transcription with key point and action item extraction  
 - 💬 Post-meeting AI chat for querying past discussions  
