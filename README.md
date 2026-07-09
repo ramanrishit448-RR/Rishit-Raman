@@ -18,8 +18,6 @@ Building AI-powered backend systems, scalable APIs, and modern full-stack applic
 
 # 🛠 Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
