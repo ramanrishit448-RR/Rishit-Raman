@@ -48,7 +48,7 @@ Building AI-powered backend systems, Scalable AI systems, and modern full-stack 
 **AI/ML**
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" height="48"/>
   <img src="https://cdn.simpleicons.org/ollama/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" height="28"/>
@@ -84,15 +84,6 @@ Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudfla
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramanrishit448-RR&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanrishit448-RR&theme=default" height="165"/>
-</p>
-
----
-
 ## 📈 Currently Learning
 
 * AI Infrastructure
@@ -100,19 +91,6 @@ Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudfla
 * Vector Databases
 * Backend Performance Optimization
 * System Design
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishit-raman-502a3932b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/ramanrishit448-RR">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
 
 ---
 
