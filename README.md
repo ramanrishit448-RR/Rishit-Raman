@@ -18,56 +18,42 @@ Building AI-powered backend systems, scalable APIs, and modern full-stack applic
 
 # 🛠 Tech Stack
 
-### AI / ML
+## 🛠️ Tech Stack
 
-* Retrieval-Augmented Generation (RAG)
-* Vector Embeddings
-* Ollama
-* OpenAI API
-* AI Agents
-* Prompt Engineering
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 
-### Backend
+  <br><br>
 
-* Node.js
-* Express.js
-* tRPC
-* REST APIs
-* WebSockets
-* Authentication & Authorization
-* Real-time Systems
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
 
-### Databases & ORMs
+  <br><br>
 
-* PostgreSQL
-* Neon
-* MongoDB
-* SQL
-* Supabase
-* Prisma
-* Drizzle ORM
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://cdn.simpleicons.org/trpc/2596BE" height="48"/>
 
-### Frontend
+  <br><br>
 
-* React.js
-* Next.js
-* Tailwind CSS
-* Redux
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
+  <img src="https://cdn.simpleicons.org/drizzle/000000" height="48"/>
+  <img src="https://cdn.simpleicons.org/neon/00E599" height="48"/>
 
-### Languages
+  <br><br>
 
-* TypeScript
-* JavaScript
-* C++
+  <!-- AI -->
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="48"/>
 
-### DevOps & Tools
+  <br><br>
 
-* Git
-* GitHub
-* Cloudflare R2
-* Postman
-* Jest
-* npm
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,jest,npm" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="48"/>
+</p>
 
 ---
 
