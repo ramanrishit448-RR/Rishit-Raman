@@ -43,10 +43,10 @@ Building AI-powered backend systems, scalable APIs, and modern full-stack applic
 
 **AI/ML**
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
+  
   <img src="https://cdn.simpleicons.org/ollama/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/pinecone/000000" height="48"/>
-  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
+ 
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/Vector_DB_(C++)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28"/>
 </p>
