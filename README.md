@@ -48,7 +48,7 @@ Building AI-powered backend systems, Scalable AI systems, and modern full-stack 
 **AI/ML**
 
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=XJzZPonEn0ww&format=png&color=000000" height="48"/>
   <img src="https://cdn.simpleicons.org/ollama/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" height="28"/>
