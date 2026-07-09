@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rishit Raman</h1>
 
 <p align="center">
-Building AI-powered backend systems, Scalable AI systems, and modern full-stack applications.
+Building AI-powered Scalable backend systems, Better AI systems, and modern full-stack applications.
 </p>
 
 ---
