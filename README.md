@@ -1,52 +1,117 @@
+# <h1 align="center">Hi 👋 I'm Rishit Raman</h1>
 
-
-<h1 align="center">Hey there, I'm <span style="color:#4db6ac;">Rishit Raman</span> 👋</h1>
 <p align="center">
-  <b>Turning ideas into scalable web experiences.</b><br/>
-  <sub>MERN Stack Developer | AI + Web Innovator | B.Tech IT</sub>
+Building AI-powered backend systems, scalable APIs, and modern full-stack applications.
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 **B.Tech Student** passionate about full-stack and AI-driven products  
-- 💡 I build **end-to-end MERN apps** with intelligent backend integration (Gemini, REST APIs, MongoDB)  
-- 🚀 Currently working on **Your OWN AI** — a product scanner that rates food healthiness using AI  
-- 🌱 Exploring **AI integrations**, **backend architecture**, and **deployment workflows**
+## 🚀 About Me
+
+* 🎓 B.Tech Information Technology student
+* 💻 Passionate about backend engineering, AI applications, and distributed systems
+* 🤖 Building products using LLMs, Retrieval-Augmented Generation (RAG), and real-time architectures
+* ⚡ Interested in scalable APIs, database design, system architecture, and developer tooling
+* 🌱 Currently exploring AI infrastructure, local LLMs, vector databases, and production-ready backend systems
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 🛠 Tech Stack
+
+### AI / ML
+
+* Retrieval-Augmented Generation (RAG)
+* Vector Embeddings
+* Ollama
+* OpenAI API
+* AI Agents
+* Prompt Engineering
+
+### Backend
+
+* Node.js
+* Express.js
+* tRPC
+* REST APIs
+* WebSockets
+* Authentication & Authorization
+* Real-time Systems
+
+### Databases & ORMs
+
+* PostgreSQL
+* Neon
+* MongoDB
+* SQL
+* Supabase
+* Prisma
+* Drizzle ORM
+
+### Frontend
+
+* React.js
+* Next.js
+* Tailwind CSS
+* Redux
+
+### Languages
+
+* TypeScript
+* JavaScript
+* C++
+
+### DevOps & Tools
+
+* Git
+* GitHub
+* Cloudflare R2
+* Postman
+* Jest
+* npm
 
 ---
 
-### 🧩 Highlight Project: [Meet AI 🤖](https://github.com/ramanrishit448-RR/next15-meet-ai-main)
-> Intelligent meeting assistant that not only joins calls but understands context, extracts insights, and assists users in real-time.
+# 🚀 Featured Projects
 
-**Tech:** Next.JS + tRPC + OpenAI + Polar + Better Auth + Neonbase + Stream SDK  
+## 🎙️ Resonance
 
-**Key Features:**  
-- 🎥 Peer-to-peer video calls with real-time streaming (Stream SDK)  
-- 🤖 Context-aware AI agent that listens and responds during meetings  
-- 📝 Live transcription with key point and action item extraction  
-- 💬 Post-meeting AI chat for querying past discussions  
-- 📊 Structured summaries for productivity tracking  
+An open-source AI-powered Text-to-Speech and Voice Cloning platform built for teams. Users can generate natural speech, create custom voice clones, manage organizations, and pay only for what they use through metered billing.
+
+**Highlights**
+
+* AI-powered Text-to-Speech generation
+* Zero-shot Voice Cloning
+* Multi-tenant architecture with organization-based access
+* Usage-based subscription billing
+* Secure object storage with signed URLs
+* Generation history and audio management
+* Type-safe end-to-end APIs
+* Production-ready authentication and authorization
+
+**Tech Stack**
+
+Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudflare R2 • Clerk • Polar • Chatterbox TTS • Sentry • Tailwind CSS
+
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishit-raman-502a3932b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4db6ac?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rishitraman@email.com">
-    <img src="https://img.shields.io/badge/Email-4db6ac?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- 
+# 📈 Currently Learning
+
+* AI Infrastructure
+* Distributed Systems
+* Vector Databases
+* Backend Performance Optimization
+* System Design
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rishit-raman-502a3932b/">LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>💻 Built with focus, curiosity, and caffeine.</sub>
+Building software that combines AI with scalable backend engineering.
 </p>
