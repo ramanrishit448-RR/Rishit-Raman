@@ -74,8 +74,6 @@ An open-source AI-powered Text-to-Speech and Voice Cloning platform built for te
 * Zero-shot Voice Cloning
 * Multi-tenant architecture with organization-based access
 * Usage-based subscription billing
-* Secure object storage with signed URLs
-* Generation history and audio management
 * Type-safe end-to-end APIs
 * Production-ready authentication and authorization
 
