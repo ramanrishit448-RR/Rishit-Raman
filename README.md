@@ -16,39 +16,39 @@ Building AI-powered backend systems, scalable APIs, and modern full-stack applic
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
 
-  <br><br>
-
-  <!-- Frontend -->
+**Frontend**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+</p>
 
-  <br><br>
-
-  <!-- Backend -->
+**Backend**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img src="https://cdn.simpleicons.org/trpc/2596BE" height="48"/>
+</p>
 
-  <br><br>
-
-  <!-- Databases -->
+**Databases**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
   <img src="https://cdn.simpleicons.org/drizzle/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/neon/00E599" height="48"/>
+</p>
 
-  <br><br>
-
-  <!-- AI -->
+**AI/ML**
+<p align="left">
   <img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
   <img src="https://cdn.simpleicons.org/ollama/000000" height="48"/>
+</p>
 
-  <br><br>
-
-  <!-- Tools -->
+**Tools**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,jest,npm" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="48"/>
 </p>
