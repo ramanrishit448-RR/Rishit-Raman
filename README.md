@@ -23,7 +23,7 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" width="40"/>
 </p>
 
 <h3 align="center">Frontend</h3>
