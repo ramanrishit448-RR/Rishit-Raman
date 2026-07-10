@@ -21,36 +21,31 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-<p align="left">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 </p>
 
-**Frontend**
-
-<p align="left">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
 </p>
 
-**Backend**
-
-<p align="left">
+<h3 align="center">Backend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img src="https://cdn.simpleicons.org/trpc/2596BE" height="48"/>
 </p>
 
-**Databases**
-
-<p align="left">
+<h3 align="center">Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma" />
   <img src="https://cdn.simpleicons.org/drizzle/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/neon/00E599" height="48"/>
 </p>
 
-**AI/ML**
-
-<p align="left">
+<h3 align="center">AI/ML</h3>
+<p align="center">
   <img src="https://img.icons8.com/?size=100&id=XJzZPonEn0ww&format=png&color=000000" height="48"/>
   <img src="https://cdn.simpleicons.org/ollama/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
@@ -58,9 +53,8 @@
   <img src="https://img.shields.io/badge/Vector_DB_(C++)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28"/>
 </p>
 
-**Tools**
-
-<p align="left">
+<h3 align="center">Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,jest,npm" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="48"/>
 </p>
