@@ -23,9 +23,9 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 12px;" />
-  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 12px;" />
-  <img src="https://skillicons.dev/icons?i=ts" style="margin: 0 12px;" />
+   <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />
 </p>
 
 <h3 align="center">Frontend</h3>
