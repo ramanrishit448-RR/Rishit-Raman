@@ -93,5 +93,9 @@ Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudfla
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center">
 Building software that combines AI with scalable backend engineering.
 </p>
