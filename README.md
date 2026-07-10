@@ -98,6 +98,6 @@ Building software that combines AI with scalable backend engineering.
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="/profile-3d-city.svg" alt="3D City View Preview" width="100%" />
+  <img src="/profile-3d-city.svg" alt="3D City View Preview" width="60%" />
 </p>
 
