@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Rishit Raman</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Rishit Raman</h1>
 
 <p align="center">
 Building AI-powered Scalable backend systems, Better AI development, and modern full-stack applications.
