@@ -92,12 +92,13 @@ Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudfla
 
 ---
 
-<p align="center">
-Building software that combines AI with scalable backend engineering.
-</p>
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="/profile-3d-city.svg" alt="3D City View Preview" width="60%" />
 </p>
 
+---
+
+<p align="center">
+Building software that combines AI with scalable backend engineering.
+</p>
