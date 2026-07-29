@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Information Technology student
+* 🎓 B.Tech Final Year Information Technology student
 * 💻 Passionate about backend engineering, AI applications, and distributed systems
 * 🤖 Building products using LLMs, Retrieval-Augmented Generation (RAG) 
 * ⚡ Interested in scalable APIs, database design, system architecture, and developer tooling
