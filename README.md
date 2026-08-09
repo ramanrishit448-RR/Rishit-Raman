@@ -100,5 +100,5 @@ Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudfla
 ---
 
 <p align="center">
-Building software that combines AI with scalable backend .
+Building software that combines AI with scalable backend engineering.
 </p>
